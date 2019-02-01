@@ -1,0 +1,42 @@
+== Info:   Trying 173.194.221.101...
+== Info: TCP_NODELAY set
+== Info: Connected to google.com (173.194.221.101) port 80 (#0)
+=> Send header, 74 bytes (0x4a)
+0000: GET / HTTP/1.1
+0010: Host: google.com
+0022: User-Agent: curl/7.63.0
+003b: Accept: */*
+0048: 
+<= Recv header, 32 bytes (0x20)
+0000: HTTP/1.1 301 Moved Permanently
+<= Recv header, 34 bytes (0x22)
+0000: Location: http://www.google.com/
+<= Recv header, 40 bytes (0x28)
+0000: Content-Type: text/html; charset=UTF-8
+<= Recv header, 37 bytes (0x25)
+0000: Date: Fri, 01 Feb 2019 12:02:21 GMT
+<= Recv header, 40 bytes (0x28)
+0000: Expires: Sun, 03 Mar 2019 12:02:21 GMT
+<= Recv header, 40 bytes (0x28)
+0000: Cache-Control: public, max-age=2592000
+<= Recv header, 13 bytes (0xd)
+0000: Server: gws
+<= Recv header, 33 bytes (0x21)
+0000: X-XSS-Protection: 1; mode=block
+<= Recv header, 29 bytes (0x1d)
+0000: X-Frame-Options: SAMEORIGIN
+<= Recv header, 21 bytes (0x15)
+0000: Content-Length: 219
+<= Recv header, 24 bytes (0x18)
+0000: Connection: Keep-Alive
+<= Recv header, 8 bytes (0x8)
+0000: Age: 7
+<= Recv header, 2 bytes (0x2)
+0000: 
+<= Recv data, 219 bytes (0xdb)
+0000: <HTML><HEAD><meta http-equiv="content-type" content="text/html;c
+0040: harset=utf-8">.<TITLE>301 Moved</TITLE></HEAD><BODY>.<H1>301 Mov
+0080: ed</H1>.The document has moved.<A HREF="http://www.google.com/">
+00c0: here</A>.
+00cb: </BODY></HTML>
+== Info: Connection #0 to host google.com left intact

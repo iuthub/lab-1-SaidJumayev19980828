@@ -1,0 +1,123 @@
+\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Sun Jan 27 04:21:15 2019 icon state='AUTH' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Sun Jan 27 04:21:15 2019 icon state='WAIT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Sun Jan 27 04:21:15 2019 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Sun Jan 27 04:21:16 2019 loaded resource DLL: 1697775616
+Sun Jan 27 04:21:16 2019 run_client()
+Sun Jan 27 04:21:16 2019 TrackActiveProfiles sid='sess_TrackActiveProfiles_Lpg9zmmEK0Ugjank_1'
+Sun Jan 27 04:21:16 2019 checking if there are any updates...
+Sun Jan 27 04:21:16 2019 no update available
+Sun Jan 27 04:21:16 2019 >>>> {'timestamp': 1548591676, 'state': 'add_profile', 'profile_id': 'us_ca_sj_001_privatetunnel_com_dynamic_p8438', 'type': 'PROFILE'}
+Sun Jan 27 04:21:16 2019 **** ADD PROFILE us_ca_sj_001_privatetunnel_com_dynamic_p8438
+Sun Jan 27 04:22:56 2019 *** CLEANUP fast=False
+Sun Jan 27 04:22:56 2019 TrayClient.disconnect True
+Sun Jan 27 04:22:56 2019 Failed to add the taskbar icon - is explorer running?
+Sun Jan 27 04:22:58 2019 Poll error: None: Connection lost.
+----- NEW INSTANTIATION -----
+Mon Jan 28 02:58:16 2019  TrayApp.main()
+Mon Jan 28 02:58:16 2019 going to enter main UI event loop...
+Mon Jan 28 02:58:16 2019 icon state='disconnected' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Mon Jan 28 02:58:16 2019 icon state='connecting' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Mon Jan 28 02:58:16 2019 icon state='connected' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Mon Jan 28 02:58:16 2019 icon state='GET_CONFIG' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Mon Jan 28 02:58:16 2019 icon state='TCP_CONNECT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Mon Jan 28 02:58:16 2019 icon state='RESOLVE' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Mon Jan 28 02:58:16 2019 icon state='RSA_SIGN' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Mon Jan 28 02:58:16 2019 icon state='ADD_ROUTES' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Mon Jan 28 02:58:16 2019 icon state='ASSIGN_IP' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Mon Jan 28 02:58:16 2019 icon state='RECONNECTING' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Mon Jan 28 02:58:16 2019 icon state='AUTH' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Mon Jan 28 02:58:16 2019 icon state='WAIT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Mon Jan 28 02:58:16 2019 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Mon Jan 28 02:58:17 2019 loaded resource DLL: 1815543808
+Mon Jan 28 02:58:17 2019 run_client()
+Mon Jan 28 02:58:17 2019 TrackActiveProfiles sid='sess_TrackActiveProfiles_8bWZJHK2VoOFxTKs_1'
+Mon Jan 28 02:58:17 2019 checking if there are any updates...
+Mon Jan 28 02:58:17 2019 no update available
+Mon Jan 28 02:58:17 2019 >>>> {'timestamp': 1548673097, 'state': 'add_profile', 'profile_id': 'us_ca_sj_001_privatetunnel_com_dynamic_p8438', 'type': 'PROFILE'}
+Mon Jan 28 02:58:17 2019 **** ADD PROFILE us_ca_sj_001_privatetunnel_com_dynamic_p8438
+Mon Jan 28 03:18:19 2019 *** CLEANUP fast=False
+Mon Jan 28 03:18:19 2019 TrayClient.disconnect True
+Mon Jan 28 03:18:20 2019 Failed to add the taskbar icon - is explorer running?
+Mon Jan 28 03:18:21 2019 Poll error: None: Connection lost.
+----- NEW INSTANTIATION -----
+Mon Jan 28 21:40:20 2019  TrayApp.main()
+Mon Jan 28 21:40:20 2019 going to enter main UI event loop...
+Mon Jan 28 21:40:20 2019 icon state='disconnected' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Mon Jan 28 21:40:20 2019 icon state='connecting' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Mon Jan 28 21:40:20 2019 icon state='connected' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Mon Jan 28 21:40:20 2019 icon state='GET_CONFIG' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Mon Jan 28 21:40:20 2019 icon state='TCP_CONNECT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Mon Jan 28 21:40:20 2019 icon state='RESOLVE' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Mon Jan 28 21:40:20 2019 icon state='RSA_SIGN' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Mon Jan 28 21:40:20 2019 icon state='ADD_ROUTES' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Mon Jan 28 21:40:20 2019 icon state='ASSIGN_IP' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Mon Jan 28 21:40:20 2019 icon state='RECONNECTING' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Mon Jan 28 21:40:20 2019 icon state='AUTH' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Mon Jan 28 21:40:20 2019 icon state='WAIT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Mon Jan 28 21:40:20 2019 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Mon Jan 28 21:40:21 2019 loaded resource DLL: 1707212800
+Mon Jan 28 21:40:21 2019 run_client()
+Mon Jan 28 21:40:21 2019 TrackActiveProfiles sid='sess_TrackActiveProfiles_SX5lYQ17U7lLOOBf_1'
+Mon Jan 28 21:40:21 2019 checking if there are any updates...
+Mon Jan 28 21:40:21 2019 no update available
+Mon Jan 28 21:40:21 2019 >>>> {'timestamp': 1548740421, 'state': 'add_profile', 'profile_id': 'us_ca_sj_001_privatetunnel_com_dynamic_p8438', 'type': 'PROFILE'}
+Mon Jan 28 21:40:21 2019 **** ADD PROFILE us_ca_sj_001_privatetunnel_com_dynamic_p8438
+Mon Jan 28 21:41:40 2019 *** CLEANUP fast=False
+Mon Jan 28 21:41:40 2019 TrayClient.disconnect True
+Mon Jan 28 21:41:41 2019 Failed to add the taskbar icon - is explorer running?
+Mon Jan 28 21:41:42 2019 Poll error: None: Connection lost.
+----- NEW INSTANTIATION -----
+Wed Jan 30 00:53:00 2019  TrayApp.main()
+Wed Jan 30 00:53:00 2019 going to enter main UI event loop...
+Wed Jan 30 00:53:00 2019 icon state='disconnected' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Wed Jan 30 00:53:00 2019 icon state='connecting' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Wed Jan 30 00:53:00 2019 icon state='connected' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Wed Jan 30 00:53:00 2019 icon state='GET_CONFIG' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Wed Jan 30 00:53:00 2019 icon state='TCP_CONNECT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Wed Jan 30 00:53:00 2019 icon state='RESOLVE' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Wed Jan 30 00:53:00 2019 icon state='RSA_SIGN' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Wed Jan 30 00:53:00 2019 icon state='ADD_ROUTES' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Wed Jan 30 00:53:00 2019 icon state='ASSIGN_IP' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Wed Jan 30 00:53:00 2019 icon state='RECONNECTING' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Wed Jan 30 00:53:00 2019 icon state='AUTH' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Wed Jan 30 00:53:00 2019 icon state='WAIT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Wed Jan 30 00:53:00 2019 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Wed Jan 30 00:53:01 2019 loaded resource DLL: 1701052416
+Wed Jan 30 00:53:01 2019 run_client()
+Wed Jan 30 00:53:01 2019 TrackActiveProfiles sid='sess_TrackActiveProfiles_1Sz7WqHRdNyfhuzw_1'
+Wed Jan 30 00:53:01 2019 checking if there are any updates...
+Wed Jan 30 00:53:01 2019 no update available
+Wed Jan 30 00:53:01 2019 >>>> {'timestamp': 1548838381, 'state': 'add_profile', 'profile_id': 'us_ca_sj_001_privatetunnel_com_dynamic_p8438', 'type': 'PROFILE'}
+Wed Jan 30 00:53:01 2019 **** ADD PROFILE us_ca_sj_001_privatetunnel_com_dynamic_p8438
+Wed Jan 30 01:47:35 2019 *** CLEANUP fast=False
+Wed Jan 30 01:47:35 2019 TrayClient.disconnect True
+Wed Jan 30 01:47:36 2019 Failed to add the taskbar icon - is explorer running?
+Wed Jan 30 01:47:37 2019 Poll error: None: Connection lost.
+----- NEW INSTANTIATION -----
+Wed Jan 30 12:17:31 2019  TrayApp.main()
+Wed Jan 30 12:17:31 2019 going to enter main UI event loop...
+Wed Jan 30 12:17:32 2019 icon state='disconnected' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Wed Jan 30 12:17:32 2019 icon state='connecting' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Wed Jan 30 12:17:32 2019 icon state='connected' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Wed Jan 30 12:17:32 2019 icon state='GET_CONFIG' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Wed Jan 30 12:17:32 2019 icon state='TCP_CONNECT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Wed Jan 30 12:17:32 2019 icon state='RESOLVE' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Wed Jan 30 12:17:32 2019 icon state='RSA_SIGN' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Wed Jan 30 12:17:32 2019 icon state='ADD_ROUTES' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Wed Jan 30 12:17:32 2019 icon state='ASSIGN_IP' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Wed Jan 30 12:17:32 2019 icon state='RECONNECTING' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Wed Jan 30 12:17:32 2019 icon state='AUTH' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Wed Jan 30 12:17:32 2019 icon state='WAIT' file='C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Wed Jan 30 12:17:32 2019 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Wed Jan 30 12:17:32 2019 loaded resource DLL: 1749352448
+Wed Jan 30 12:17:32 2019 run_client()
+Wed Jan 30 12:17:32 2019 TrackActiveProfiles sid='sess_TrackActiveProfiles_NR2ih8LQzbYMYVBi_1'
+Wed Jan 30 12:17:32 2019 checking if there are any updates...
+Wed Jan 30 12:17:32 2019 no update available
+Wed Jan 30 12:17:32 2019 >>>> {'timestamp': 1548879452, 'state': 'add_profile', 'profile_id': 'us_ca_sj_001_privatetunnel_com_dynamic_p8438', 'type': 'PROFILE'}
+Wed Jan 30 12:17:32 2019 **** ADD PROFILE us_ca_sj_001_privatetunnel_com_dynamic_p8438
+Wed Jan 30 12:17:54 2019 *** CLEANUP fast=False
+Wed Jan 30 12:17:54 2019 TrayClient.disconnect True
+Wed Jan 30 12:17:54 2019 Failed to add the taskbar icon - is explorer running?
+Wed Jan 30 12:17:56 2019 Poll error: None: Connection lost.

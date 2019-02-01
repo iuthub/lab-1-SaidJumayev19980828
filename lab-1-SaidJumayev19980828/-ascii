@@ -1,0 +1,7 @@
+== Info: Could not resolve host: dump.txt
+== Info: Closing connection 0
+== Info:   Trying 192.168.1.100...
+== Info: TCP_NODELAY set
+== Info: connect to 192.168.1.100 port 80 failed: Timed out
+== Info: Failed to connect to file port 80: Timed out
+== Info: Closing connection 1
